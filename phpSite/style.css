@@ -1,0 +1,22 @@
+body {
+	background-color: whitesmoke;
+	font-size: 17;
+	white-space: pre;
+}
+input {
+	width: 40%;
+	height: 5%;
+	border: 1px;
+	border-radius: 05px;
+	padding: 8px 15px 8 px 15px;
+	margin: 10px 0px 15px 0px;
+	box-shadow: 1px 1px 2px 1px grey;
+	
+}
+
+div.style_class_one{
+	font-size: 18;
+	font-family: Trebuchet MS;
+}
+
+
